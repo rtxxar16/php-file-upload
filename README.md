@@ -11,6 +11,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 - [X] Silme seçeneği
 - [ ] Dosya boyutu
 - [ ] Yüklenme tarihi / Saati
+- [ ] Güvenlik yükseltmeleri
 
 ## 📦 Install
 Dosyaları indirip sunucunuza atmak yeterli olacaktır.<br>
