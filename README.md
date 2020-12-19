@@ -14,7 +14,8 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 - [ ] Güvenlik yükseltmeleri
 
 ## 📦 Install
-Dosyaları indirip sunucunuza atmak yeterli olacaktır.<br>
+Dosyaları indirip sunucunuza yükledikden sonra `indirilenqaqalar` adlı bir klasör oluşturmanız **gerekmektedir**,<br>
+yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.
 
 ## 👨‍💻 Author
 [Tiox](https://t.me/tioxxs)<br>
