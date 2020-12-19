@@ -7,8 +7,8 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 
 <?php
-    echo '<i>Dosya yüklediğiniz de aşağıda listelenicektir...</i>';
-    $dosya = scandir("indirilenqaqalar");
+    echo '<i>Dosya yüklediğiniz de aşağıda listelenecektir...</i>';
+    $dosya = scandir("cloud");
     for ($asdas = 2; $asdas < count($dosya); $asdas++)
 
 {    
@@ -20,13 +20,13 @@
         echo $dosya[$asdas];
         ?><br>
 
-        <a href="indirilenqaqalar/<?php 
+        <a href="cloud/<?php 
             echo $dosya[$asdas]; 
         ?>" download="<?php echo $dosya[$asdas]; ?>">
             İndir
         </a>&nbsp;
 
-        <a href="delete.php?name=indirilenqaqalar/<?php 
+        <a href="delete.php?name=cloud/<?php 
             echo $dosya[$asdas]; 
         ?>">
             Sil
