@@ -1,3 +1,6 @@
+<?php
+require "./func.php";
+?>
 <center>
     <form method="POST" action="upload.php" enctype="multipart/form-data">
         <input type="file" name="file"><br>
@@ -16,8 +19,8 @@
     
     <p>
         
-        <?php 
-        echo $dosya[$asdas];
+        <?php
+        echo $dosya[$asdas]." (".bytesto(filesize('./cloud/'.$dosya[$asdas])).")";
         ?><br>
 
         <a href="cloud/<?php 
