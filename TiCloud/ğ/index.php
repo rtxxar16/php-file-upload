@@ -29,7 +29,7 @@ require "./func.php";
             İndir
         </a>&nbsp;
 
-        <a href="delete.php?name=cloud/<?php 
+        <a href="delete.php?name=/<?php 
             echo $dosya[$asdas]; 
         ?>">
             Sil
