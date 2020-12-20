@@ -9,7 +9,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 - [X] Dosya adı
 - [X] Download seçeneği
 - [X] Silme seçeneği
-- [ ] Dosya boyutu
+- [X] Dosya boyutu
 - [ ] Yüklenme tarihi / Saati
 - [ ] Güvenlik yükseltmeleri
 
