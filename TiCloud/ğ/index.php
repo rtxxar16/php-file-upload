@@ -20,7 +20,7 @@ require "./func.php";
     <p>
         
         <?php
-        echo $dosya[$asdas]." (".bytesto(filesize('./cloud/'.$dosya[$asdas])).")";
+        echo $dosya[$asdas]."<br><i><sub>Dosya Boyutu: ".bytesto(filesize('./cloud/'.$dosya[$asdas]))."</sub></i>";
         ?><br>
 
         <a href="cloud/<?php 
