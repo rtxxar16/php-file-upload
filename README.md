@@ -15,7 +15,9 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 
 ## 📦 Install
 Dosyaları indirip sunucunuza yükledikden sonra `cloud` adlı bir klasör oluşturmanız **gerekmektedir**,<br>
-yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.
+yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.<br>
+## Thanks ❤️
+[**kursadHD**](https://github.com/kursadHD)
 
 ## 👨‍💻 Author
 [Tiox](https://t.me/tioxxs)<br>
