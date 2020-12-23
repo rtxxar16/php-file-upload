@@ -16,6 +16,9 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 ## 📦 Install
 Dosyaları indirip sunucunuza yükledikden sonra `cloud` adlı bir klasör oluşturmanız **gerekmektedir**,<br>
 yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.<br>
+## Demo
+[**Buradan**](http://tiox.tech/ticloud) demoyu test edebilirsiniz.
+**Demo HERKESE AÇIKTIR, bu yüzden ÖNEMLİ fotoğraf/belge/video gibi verilerinizi YÜKLEMEYİNİZ.
 ## Thanks ❤️
 [**kursadHD**](https://github.com/kursadHD)
 
