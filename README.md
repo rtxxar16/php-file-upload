@@ -10,7 +10,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 - [X] Download seçeneği
 - [X] Silme seçeneği
 - [X] Dosya boyutu
-- [ ] Yüklenme tarihi / Saati
+- [X] Yüklenme tarihi / Saati
 - [ ] Güvenlik yükseltmeleri
 
 ## 📦 Install
