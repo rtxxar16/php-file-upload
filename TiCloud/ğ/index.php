@@ -8,7 +8,7 @@ require "./db.php";
         <input type="submit" value="Yükle">
     </form>
 </center>
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="css/style.css" />
 <script src="js/yükleniyor.js"></script>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
