@@ -17,11 +17,11 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 Dosyaları indirip sunucunuza yükledikden sonra `cloud` adlı bir klasör oluşturmanız **gerekmektedir**,<br>
 yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.<br>
 **MySQl Kurulumu.**
-https://imgyukle.com/i/auqVO0<br>
+ <img src="https://imgyukle.com/i/auqVO0" width="300" height="400">
 Yeni bir veritabanı açıyoruz ve adına `dosyalar` yapıyoruz.<br>
-https://imgyukle.com/i/auqRVY
+ <img src="https://imgyukle.com/i/auqRVY" width="300" height="400">
 Tablo oluşturmamızı isteyecek ve onada yine dosyalar adını veriniz.<br>
-https://imgyukle.com/i/auqnUv
+ <img src="https://imgyukle.com/i/auqnUv" width="300" height="400">
 Tabloların adını sırası ile görselde ki gibi `dosya_adi`,`ip_addr`,`tarih`,`boyut` olarak yapıyoruz ve **türü** kısmını `text` yapıyoruz<br>
 MySql ayarı bu kadardı.
 
