@@ -9,6 +9,8 @@ require "./db.php";
     </form>
 </center>
 <link rel="stylesheet" type="text/css" href="style.css" />
+<script src="js/yükleniyor.js"></script>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <?php
