@@ -15,8 +15,8 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 
 ## 📦 Install
 Dosyaları indirip sunucunuza yükledikden sonra `cloud` adlı bir klasör oluşturmanız **gerekmektedir**,<br>
-yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.<br>
-MySql kurulumu yapmanız gerekmektedir.<br>
+yüklediğiniz dosyalar bu klasörün içinde **depolanıp listelenecektir**.<br><br>
+**MySql kurulumu yapmanız gerekmektedir.**<br>
 Öncelikle MySql'de bir `dosyalar` veritabanı açmanız lazım, tablo oluşturun ekranı gelecektir ve orada yine `dosyalar` adlı tablo açın ve 4 sütün verin,<br>
 sütün adlarını sırası ile, `dosya_adi`,`ip_addr`,`tarih`,`boyut` yapımınız ve kaydediniz kurulum bu kadardır.
 
