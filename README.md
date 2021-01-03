@@ -14,7 +14,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 - [ ] Güvenlik yükseltmeleri
 
 ## 📦 Install
-`git clone https://github.com/Tioxs/TiCloud`<br> Dosyaları indirdikten sonra sunucunuza yükleyin ve **cloud** adlı klasör açınız.<br> dosyalar oluşturduğunuz **cloud** klasöründe listelenecektir.
+`git clone https://github.com/Tioxs/TiCloud`<br> Dosyaları indirdikten sonra sunucunuza yükleyin ve **cloud** adlı klasör açınız.<br> dosyalar oluşturduğunuz **cloud** klasöründe listelenecektir.<br><br>
 **MySql kurulumu yapmanız gerekmektedir.**<br>
 Öncelikle MySql'de bir `dosyalar` veritabanı açmanız lazım, tablo oluşturun ekranı gelecektir ve orada yine `dosyalar` adlı tablo açın ve 4 sütün verin,<br>
 sütün adlarını sırası ile, `dosya_adi`,`ip_addr`,`tarih`,`boyut` yapınız **türü** kısmı ise hepsine `text`olarak kaydediniz kurulum bu kadardır.
