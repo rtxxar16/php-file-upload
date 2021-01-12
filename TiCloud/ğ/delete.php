@@ -1,16 +1,20 @@
 <?php
-require "./db.php";
-$filename = $_GET["name"];
-if ($_GET) {
-    if (file_exists("./cloud/$filename")) {
-        unlink("./cloud/$filename");
-        $query = $db->prepare("DELETE FROM dosyalar WHERE dosya_adi = :dosya_adi");
-        $delete = $query->execute(array('dosya_adi' => $filename));
-        header("Location: " . $_SERVER["HTTP_REFERER"]);
-    }
-    else {
-        header("Location: " . $_SERVER["HTTP_REFERER"]);
-    }
+require("./db.php");
+$id = $_GET["id"];
+try {
+    $query = $db->prepare("SELECT * FROM dosyalar WHERE id = :id");
+    $query->execute(array("id" => $id));
+    $result = $query->fetchAll()[0];
+    $fname = $id."-".$result["dosya_adi"];
+    unlink("./cloud/$fname");
+    
+    $delete = $db->prepare("DELETE FROM dosyalar WHERE id = :id");
+    $delete->execute(array("id" => $id));
+    header("Location: index.php");
+}
+catch (Exception $e) {
+    echo $e;
+    header("Location: index.php");
 }
 
 
