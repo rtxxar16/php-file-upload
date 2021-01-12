@@ -1,6 +1,8 @@
 <?php
-require "./func.php";
-require "./db.php";
+require("./func.php");
+require("./db.php");
+
+if (!file_exists("./cloud")) mkdir("./cloud");
 ?>
 <center>
     <form method="POST" action="upload.php" enctype="multipart/form-data">
@@ -24,8 +26,8 @@ require "./db.php";
     <p>
         <?= $row['dosya_adi']." <i>(".$row['boyut'].")</i>"; ?><br>
         <?= "<i><sup>{$row["tarih"]}</sup></i>"; ?><br>
-        <a href="cloud/<?= $row['dosya_adi']; ?>" download="<?= $row['dosya_adi']; ?>">İndir</a>&nbsp;
-        <a href="delete.php?name=<?= $row['dosya_adi']; ?>">Sil</a>
+        <a href="download.php?id=<?= $row['id']; ?>" download="<?= $row['dosya_adi']; ?>">İndir</a>&nbsp;
+        <a href="delete.php?id=<?= $row['id']; ?>">Sil</a>
     </p>
     <?php
         }
