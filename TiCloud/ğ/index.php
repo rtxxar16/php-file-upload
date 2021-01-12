@@ -26,8 +26,8 @@ if (!file_exists("./cloud")) mkdir("./cloud");
     <p>
         <?= $row['dosya_adi']." <i>(".$row['boyut'].")</i>"; ?><br>
         <?= "<i><sup>{$row["tarih"]}</sup></i>"; ?><br>
-        <a href="download.php?id=<?= $row['id']; ?>" download="<?= $row['dosya_adi']; ?>">İndir</a>&nbsp;
-        <a href="delete.php?id=<?= $row['id']; ?>">Sil</a>
+        <a href="download.php?id=<?= $row['id']; ?>" download="<?= $row['dosya_adi']; ?>">Dosyayı İndir</a>&nbsp;
+        <a href="delete.php?id=<?= $row['id']; ?>">Dosyayı Sil</a>
     </p>
     <?php
         }
