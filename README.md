@@ -24,3 +24,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 ## 👨‍💻 Author
 [Tiox](https://t.me/tioxxs)<br>
 [Blog](https://t.me/tioxsblog)
+
+## Lisans/License
+Bu proje `GNU General Public License v3.0` ile korunmaktadır.<br>
+this project is protected by the `GNU General Public License v3.0`.
