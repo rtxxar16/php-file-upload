@@ -11,7 +11,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 - [X] Silme seçeneği
 - [X] Dosya boyutu
 - [X] Yüklenme tarihi / Saati
-- [ ] Tasarım (I need help with this/subject | Bu konuda yardıma ihtiyacımız var..)
+- [ ] Tasarım | Design (I need help with this/subject | Bu konuda yardıma ihtiyacımız var..)
 - [ ] Güvenlik yükseltmeleri (I need help with this/subject | Bu konuda yardıma ihtiyacımız var..)
 
 ## 📦 Install
