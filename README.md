@@ -17,7 +17,10 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 ## 📦 Install
 `git clone https://github.com/Tioxs/TiCloud`<br> Dosyaları indirdikten sonra sunucunuza yükleyin.<br><br>
 **MySql kurulumu yapmanız gerekmektedir.**<br>
-`db.php` dosyasını açıp veritabanı bilgilerinizi düzenleyin 
+`db.php` dosyasını açıp veritabanı bilgilerinizi düzenleyin.
+
+## Terminal'den dosya yükleme
+`curl -F 'file=@/local/dosya/yolu/dosya_adi' https://siteadresi.com/upload.php`
 
 ## Thanks ❤️
 [**kursadHD**](https://github.com/kursadHD)
