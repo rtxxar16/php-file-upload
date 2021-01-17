@@ -20,6 +20,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 `db.php` dosyasını açıp veritabanı bilgilerinizi düzenleyin.
 
 ## Terminal'den dosya yükleme
+Dosyalarınızı terminal üzerinden ticloud'a upload edebilirsiniz bunun için aşırıdaki kodu kullanınız.
 `curl -F 'file=@/local/dosya/yolu/dosya_adi' https://siteadresi.com/upload.php`
 
 ## Thanks ❤️
