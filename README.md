@@ -6,9 +6,9 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ul
 > Daha çok özellikler için çekme isteklerinizi bekliyor olacağım :)<br>
 Şuan da olan özellikler:
 
-- [X] Dosya adı
+- [X] Dosyayı link ile paylaşma
 - [X] Download seçeneği
-- [X] Silme seçeneği
+- [X] Terminal den dosya yükleme
 - [X] Dosya boyutu
 - [X] Yüklenme tarihi / Saati
 - [ ] Tasarım | Design (I need help with this/subject | Bu konuda yardıma ihtiyacımız var..)
