@@ -1,6 +1,7 @@
 # ☁ TiCloud
 Basit ve az güvenlikli bir cloud depolama tarzı bir proje.<br>
-Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/388) ulaşabilirsiniz.
+Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/646) ulaşabilirsiniz.<br>
+**Test etmek isterseniz:** https://ticloud.tiox.tech
 
 ## ✨ Specifications
 > Daha çok özellikler için çekme isteklerinizi bekliyor olacağım :)<br>
