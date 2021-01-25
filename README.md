@@ -16,7 +16,7 @@ Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/646) ul
 - [ ] Güvenlik yükseltmeleri (I need help with this/subject | Bu konuda yardıma ihtiyacımız var..)
 
 ## 📦 Install
-`git clone https://github.com/Tioxs/TiCloud`<br> Dosyaları indirdikten sonra sunucunuza yükleyin.<br><br>
+`git clone https://github.com/Tioxs/php-file-upload`<br> Dosyaları indirdikten sonra sunucunuza yükleyin.<br><br>
 **MySql kurulumu yapmanız gerekmektedir.**<br>
 `db.php` dosyasını açıp veritabanı bilgilerinizi düzenleyin.
 
