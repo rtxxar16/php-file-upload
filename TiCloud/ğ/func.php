@@ -18,7 +18,7 @@ function bytesto ($bytes) {
 }
 
 function re_name ($str) {
-    $allow = "0123456789abcçdefgğhıijklmnoöprsştuüvyzABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ";
+    $allow = "0123456789abcçdefgğhıijklmnoöprsştuüvyzABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ_-.";
     $len = strlen($str);
     $eski = array();
     $yeni = array();
@@ -33,7 +33,7 @@ function re_name ($str) {
 }
 
 function random ($uzunluk) {
-    $str = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ._-';
+    $str = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
     $cikti = '';
     for ($i = 0; $i < $uzunluk; $i++) {
         $cikti .= $str[rand(0, strlen($str)) - 1];
