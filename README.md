@@ -1,3 +1,6 @@
+# yes there was a scam
+
+
 # ☁ TiCloud
 Basit ve az güvenlikli bir cloud depolama tarzı bir proje.<br>
 Demo videosuna bakmak isterseniz [buraya basarak](https://t.me/TioxsBlog/646) ulaşabilirsiniz.<br>
